@@ -62,9 +62,9 @@ em.relaxed.lo =
 em.relaxed.su = 
 em.relaxed.aw = 
 em.relaxed.di = 
-em.re = laxed.re = 
-em.re = laxed.co = 
-em.re = laxed.ag = 
+em.relaxed.re = 
+em.relaxed.co = 
+em.relaxed.ag = 
 
 em.smirk.op = 
 em.smirk.lo = 
@@ -753,14 +753,14 @@ em.dancer.re =
 em.dancer.co = 
 em.dancer.ag = 
 
-em.angel.op = 
-em.angel.lo = 
-em.angel.su = 
-em.angel.aw = 
-em.angel.di = 
-em.angel.re = 
-em.angel.co = 
-em.angel.ag = 
+em.angel.op = 9
+em.angel.lo = 10
+em.angel.su = 7
+em.angel.aw = 6
+em.angel.di = 1
+em.angel.re = 1
+em.angel.co = 1
+em.angel.ag = 1
 
 em.smirk_cat.op = 
 em.smirk_cat.lo = 
